@@ -1,2 +1,2 @@
 # blcokchain
-go语言 区块链学习
+1.跟着https://github.com/liuchengxu/blockchain-tutorial 学习
