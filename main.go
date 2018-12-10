@@ -21,8 +21,6 @@ func main() {
 		fmt.Println()
 	}
 
-
-
 /*
 	data1 := []byte("I like donuts")
 	data2 := []byte("I like donutsca07ca")
